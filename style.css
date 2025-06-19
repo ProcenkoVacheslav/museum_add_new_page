@@ -311,6 +311,11 @@ nav {
     margin-top: 1rem;
 }
 
+.textarea-box p {
+    font-size: 24pt;
+    margin-left: 1rem;
+}
+
 .add-button {
     width: 100%;
     padding: 1rem 0;
